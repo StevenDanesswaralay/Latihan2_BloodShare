@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bloodshare</string>
+    <string-array name="goldar">
+        <item>Blood Type</item>
+        <item>A</item>
+        <item>AB</item>
+        <item>B</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="dftrhss">
+        <item>Rhesus</item>
+        <item>Positif</item>
+        <item>Negatif</item>
+    </string-array>
+    <string-array name="dftjob">
+        <item>Job</item>
+        <item>Guru</item>
+        <item>Dosen</item>
+    </string-array>
+</resources>
